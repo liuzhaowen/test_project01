@@ -16,6 +16,7 @@ desired_caps['appActivity'] = '.ChooseLockPattern'
 driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
 
 # 如果代码过长，可以使用回车进行换行
+# 如果代码过长，可以使用回车进行换行
 # 换行的时候默认会多一个 右斜线 是正常的
 # 如果不希望出现这个 右斜线 可以将整句代码用括号括起来，然后再使用回车换行即可238 853  718
 
